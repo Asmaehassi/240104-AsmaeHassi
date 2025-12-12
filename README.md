@@ -1,4 +1,4 @@
-#  Heart Disease Prediction – Projet Data Science
+#  Heart Disease Prediction : Projet Data Science
 
 ##  Description
 Projet de prédiction de maladie cardiaque basé sur le **Heart Disease Dataset** (Kaggle).  
