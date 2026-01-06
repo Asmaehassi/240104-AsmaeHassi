@@ -1,14 +1,36 @@
-<p align="left">
-  <img src="PROFIL1.jpeg" alt="Photo étudiante" width="90"/>
-</p>
+<table width="100%">
+<tr>
+<td align="left" width="50%">
+<img src="chemin/vers/logo.png" width="120"/>
+</td>
+<td align="right" width="50%">
+<img src="chemin/vers/photo.jpg" width="120"/>
+</td>
+</tr>
+</table>
 
-<p align="right">
-  <img src="logo%20(2).png" alt="Logo ENCG Settat" width="90"/>
-</p>
+<br><br>
+
+**ENCG SETTAT** 
+
+---
+
+#  Rapport de Projet
+
+**Titre du Projet :** Détection du  risque de maladie cardiaque
+
+**Nom de l'étudiante :** Asmae Hassi  
+**Numéro Apogée :** 24010417  
+
+  
+
+---
 
 
 
-#  **Rapport machine learning : Détection du Risque de Maladie Cardiaque**
+
+
+#  **Rapport machine learning :  Détection du  risque de maladie cardiaque**
 # Sommaire
 
 1. [Introduction](#1-introduction)
