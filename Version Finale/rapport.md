@@ -33,7 +33,9 @@
 <strong>Année universitaire :</strong><br>
 2025 / 2026
 
-<p align="right"> <img src="https://github.com/Asmaehassi/Version-finale/blob/main/LA%20PHOTO.jpeg" alt="Photo étudiante" width="110"/></p> 
+<p align="right">
+  <img src="https://github.com/Asmaehassi/Version-finale/blob/main/Version%20Finale/LA%20PHOTO.jpeg" width="120"/>
+</p>
 
  
 
